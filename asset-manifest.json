@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/tazmaniandeviloper/static/css/main.7614e607.css",
-    "main.js": "/tazmaniandeviloper/static/js/main.19f7682d.js",
+    "main.css": "/tazmaniandeviloper/static/css/main.a06a0dac.css",
+    "main.js": "/tazmaniandeviloper/static/js/main.49d55998.js",
     "static/media/profile_pic.jpg": "/tazmaniandeviloper/static/media/profile_pic.9b9261cf50319eaf1eb8.jpg",
     "index.html": "/tazmaniandeviloper/index.html",
-    "main.7614e607.css.map": "/tazmaniandeviloper/static/css/main.7614e607.css.map",
-    "main.19f7682d.js.map": "/tazmaniandeviloper/static/js/main.19f7682d.js.map"
+    "main.a06a0dac.css.map": "/tazmaniandeviloper/static/css/main.a06a0dac.css.map",
+    "main.49d55998.js.map": "/tazmaniandeviloper/static/js/main.49d55998.js.map"
   },
   "entrypoints": [
-    "static/css/main.7614e607.css",
-    "static/js/main.19f7682d.js"
+    "static/css/main.a06a0dac.css",
+    "static/js/main.49d55998.js"
   ]
 }
