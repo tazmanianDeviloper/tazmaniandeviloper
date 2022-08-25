@@ -10,9 +10,15 @@ import "./styles/footer_styles.css"
 export default function Home(){
     return(
         <div className={"home--div"}>
-            <Header className={"home-header--div"}/>
-            <Main className={"home-main--div"}/>
-            <Footer className={"home-footer--div"}/>
+            <div className={"home-header--div"}>
+                <Header/>
+            </div>
+            <div className={"home-main--div"}>
+                <Main/>
+            </div>
+            <div className={"home-footer--div"}>
+                <Footer/>
+            </div>
         </div>
     )
 }

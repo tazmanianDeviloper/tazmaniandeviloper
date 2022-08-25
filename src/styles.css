@@ -3,30 +3,32 @@
 }
 
 body{
-    margin: auto;
     background: bisque;
+    margin: auto;
 }
 
 .home--div{
     display: flex;
-    flex-direction: column;
-    align-content: space-between;
+    align-content: center;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    position: relative;
+    min-height: 100vh;
 }
 
 .home-header--div{
-    margin: 5px;
-    display: flex;
-    align-self: flex-start;
+    position: absolute;
+    top: 0;
+    width: 100%;
 }
 
 .home-main--div{
-    margin: 5px;
-    display: flex;
-    align-self: center;
+    position: absolute;
 }
 
 .home-footer--div{
-    margin: 5px;
-    display: flex;
-    align-self: flex-end;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
