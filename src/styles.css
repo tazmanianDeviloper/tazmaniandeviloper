@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: auto;
+    background: bisque;
+}
+
+.home--div{
+    display: flex;
+    flex-direction: column;
+    align-content: space-between;
+}
+
+.home-header--div{
+    margin: 5px;
+    display: flex;
+    align-self: flex-start;
+}
+
+.home-main--div{
+    margin: 5px;
+    display: flex;
+    align-self: center;
+}
+
+.home-footer--div{
+    margin: 5px;
+    display: flex;
+    align-self: flex-end;
+}
