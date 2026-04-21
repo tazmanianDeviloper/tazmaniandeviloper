@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+Taymaz Davoodi
+Boston, MA • tdavoodi@bu.edu • 617-850-5743 • LinkedIn • GitHub
+PROFESSIONAL SUMMARY
+Full-stack software engineer and computer science instructor with experience building web and mobile applications, teaching modern software engineering practices, and developing user-centered software solutions. Strong background in TypeScript, JavaScript, React, REST APIs, GraphQL, and scalable application design. Experienced collaborating across teams, mentoring others, and translating complex requirements into maintainable products.
+TECHNICAL SKILLS
+TypeScript • JavaScript • React • Next.js • HTML5 • CSS3 • GraphQL • REST APIs • Java • Kotlin • Python • SQL • Git • Spring Boot • Firebase 
+PROFESSIONAL EXPERIENCE
+Boston University — Computer Science Instructor
+Boston, MA | Sep 2021 – Present
+•	Teach undergraduate and graduate courses in web development, software engineering, data structures, and programming.
+•	Instruct students in TypeScript, JavaScript, React, REST APIs, GraphQL, and frontend development best practices.
+•	Design hands-on software projects involving API integration, responsive UI development, and full-stack application architecture.
+•	Mentor students on debugging, clean code principles, Git workflows, testing, and collaborative development practices.
+•	Consistently earned strong student evaluations, including overall instructor rating of 4.6/5.
+Mozuo Corp. — Android Developer (Remote)
+Jan 2019 – Sep 2021
+•	Developed Android applications using Kotlin and Java for production environments.
+•	Integrated mobile applications with REST APIs and backend systems.
+•	Built reusable UI components and improved application usability and performance.
+•	Collaborated with engineering teams using Git-based version control and agile workflows.
+Sharif University Center for Extracurriculars — English Instructor (Remote)
+Jan 2017 – Sep 2019
+•	Delivered technical and academic English instruction to graduate students.
+•	Provided individualized coaching, structured lessons, and measurable student improvement.
+PROJECTS
+•	My Child and Me: Android application using Firebase/Firestore for dynamic content delivery.
+•	Talli: Built RecyclerView-based Android UI with structured database objects.
+ 
+EDUCATION
+M.S., Computer Science — Boston University
+B.A., History — California State University, Northridge
+ADDITIONAL
+Languages: English, Persian, German
+ 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
